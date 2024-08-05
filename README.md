@@ -1,4 +1,4 @@
-# jQAssistant Git Plugin
+# jQAssistant Checkstyle Plugin
 
 This is a plugin for jQAssistant that scans checkstyle reports. This is the continuation of the project previously maintained at [github.com/kontext-e/jqassistant-plugins](https://github.com/kontext-e/jqassistant-plugins).
 
